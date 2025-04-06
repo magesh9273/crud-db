@@ -1,25 +1,25 @@
 {
-  "users": [
-    {
-      "id": "7a5d",
-      "STUDENT_NAME": "MAGESH KUMAR A",
-      "ROLL_NO": "22h346",
-      "EMAIL": "mageshkumar4106@gmail.com",
-      "PH_NO": "8778289742"
-    },
-    {
-      "id": "7d80",
-      "STUDENT_NAME": "NARESH STALIN M",
-      "ROLL_NO": "22h311",
-      "EMAIL": "nareshstalin1881@gmail.com",
-      "PH_NO": "8812038884"
-    },
-    {
-      "id": "6c98",
-      "STUDENT_NAME": "MANOJ",
-      "ROLL_NO": "22H304",
-      "EMAIL": "manojgpu32@gamil.com",
-      "PH_NO": "766451795"
-    }
-  ]
-}
+    "users": [
+      {
+        "id": "7a5d",
+        "STUDENT_NAME": "MAGESH KUMAR A",
+        "ROLL_NO": "22h346",
+        "EMAIL": "mageshkumar4106@gmail.com",
+        "PH_NO": "8778289742"
+      },
+      {
+        "id": "7d80",
+        "STUDENT_NAME": "NARESH STALIN M",
+        "ROLL_NO": "22h311",
+        "EMAIL": "nareshstalin1881@gmail.com",
+        "PH_NO": "8812038884"
+      },
+      {
+        "id": "6c98",
+        "STUDENT_NAME": "MANOJ",
+        "ROLL_NO": "22H304",
+        "EMAIL": "manojgpu32@gamil.com",
+        "PH_NO": "766451795"
+      }
+    ]
+  }
